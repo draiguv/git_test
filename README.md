@@ -1,7 +1,4 @@
 # git_test
 The Odin Project Git Basics
 
-Hello Odin!
-
-
-Hello World!
+Hello Odin! Hello World!
